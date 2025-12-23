@@ -1,0 +1,7 @@
+{
+  "name": "BizPilot AI",
+  "description": "All-in-one operations platform for SMEs: Automated invoicing, spend analysis, and job description generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
